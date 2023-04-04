@@ -1,6 +1,23 @@
 # g10mart
 
-A new Flutter project.
+A new Flutter project by G10Mart in India.
+
+## OutPuts
+
+> Home Page :
+
+![2](https://user-images.githubusercontent.com/106138012/229719625-c65714e2-d3b6-4c51-a79d-4190c58ce012.jpeg)
+
+
+> Details Page :
+
+![1](https://user-images.githubusercontent.com/106138012/229719662-910c212f-838b-4a7e-afc3-2194355ae153.jpeg)
+
+
+> Connection Cheking :
+
+![3](https://user-images.githubusercontent.com/106138012/229719690-d4cda138-7fe0-499b-b341-ff7c2f83a486.jpeg)
+
 
 ## Getting Started
 
