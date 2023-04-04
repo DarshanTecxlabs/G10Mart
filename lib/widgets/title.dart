@@ -14,6 +14,7 @@ class TitleWidget extends StatelessWidget {
         children: [
           Expanded(
             child: Text(
+
               product.title.toString(),
               style: TextStyle(
                 color: Colors.white,
