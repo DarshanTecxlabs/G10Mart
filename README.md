@@ -1,4 +1,4 @@
-# g10mart
+# G10Mart
 
 A new Flutter project by G10Mart in India.
 
