@@ -1,6 +1,6 @@
 # G10Mart
 
-A new Flutter project by G10Mart in India.
+A new Flutter project by G10Mart India Shopping application.
 
 ## OutPuts
 
